@@ -20,7 +20,7 @@ module.exports = {
             let help = new MessageEmbed()
                 .setColor("RANDOM")
                 .setAuthor(`${message.guild.name} yardım Menu`)
-                .addFields({ name: `Level komutları`, value: `\`${prefix}rank\`, \`${prefix}leaderboard\`, \`${prefix}role-level\`, \`${prefix}add-level\`` }, )
+                .addFields({ name: `Level komutları`, value: `\`${prefix}rank\`, \`${prefix}top\`, \`${prefix}levelrolü-ayarla\`, \`${prefix}level-ekle\`` }, )
                 .setTimestamp()
                 .setFooter('<> zorunludur, [] isteğe bağlıdır');
 
