@@ -1,7 +1,7 @@
 {
     "name": "v12-discord-level botu",
     "version": "1.0.0",
-    "description": "> A Discord Leveling Bot built with Discord.js and Canvas made by roefinoavrililo",
+    "description": "v12-discord-level-botu",
     "main": "index.js",
     "repository": {
         "type": "git",
