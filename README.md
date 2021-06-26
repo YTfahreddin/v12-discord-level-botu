@@ -10,4 +10,4 @@
 </div>
 
 
-altyapıyı güncelliycem çalan çok kişiler var mahkemeyede vericem
+altyapıyı güncelliycem çalan çok kişiler var türemelerim artıyor
